@@ -1,0 +1,24 @@
+/* heading of the search result */
+.heading{
+    margin-top: 150px;
+}
+/* search bar */
+#search-bar {
+    max-width: 650px;
+}
+#search-bar input {
+    height: 50px;
+    border-radius: 10px;
+}
+/* Meal Detail styling */
+#details{
+    position: fixed;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
+.meal-details img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
